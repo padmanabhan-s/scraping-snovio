@@ -38,7 +38,7 @@ while(flag):
     i+=1
     record.append((name,email))  # adding data to the temporary storage
     df=pd.DataFrame(record,columns=['name','email'])         
-    df.to_csv(file_name + '.csv',index=False,encoding='utf-8')            # writing scraped details to the file
+    df.to_csv(file_name + '.csv',index=False,encoding='utf-8')  # writing scraped details to the file
  
 	
     if(i>length):
