@@ -2,16 +2,14 @@
 ### note : Don't use the code to scrape illegally.
 
 ## What is snovio:
-<<<<<<< HEAD
-            snovio is one of the lead generative services.Free variant of <br /> snovio won't permit to import contact details in mass ,<br /> however it permits duplicate glue every detail individually  which in turns a long procedure this can be automated with a<br />python script that will extricate all the user details and<br />store in an excel sheet.
-=======
+
             snovio is one of the lead generative services.Free variant of  
             snovio won't permit to import contact details in mass ,  
             however it permits duplicate glue every detail individually  
             which in turns a long procedure this can be automated with a  
             python script that will extricate all the user details and  
             store in an excel sheet.
->>>>>>> 44620f7ee452290cf2609345eb4e930fb60659e1
+
 ## Requirement:
             * Python 3 -- any version of python 3
             * Selenium -- to get page source.
